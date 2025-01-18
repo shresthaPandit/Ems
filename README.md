@@ -1,8 +1,33 @@
-# React + Vite
+# Employee Management System (EMS)
+The Employee Management System (EMS) is a basic project built with React that allows users to manage tasks and employees. It uses local storage for data management and focuses on creating, assigning, and tracking tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Add, assign, and track employee tasks.
+User-friendly interface for task management.
+Uses local storage for persisting data.
+# Technologies Used
+React: For building the UI.
+Tailwind CSS: For styling components.
+# Limitations
+The project is not responsive.
+No backend integration; local storage is used for data storage.
+Task data does not persist across multiple logins or page reloads unless managed properly in local storage.
+# Setup and Installation
+Clone the repository:
+git clone <repository-link>
+Navigate to the project directory:
+cd employee-management-system
+Install dependencies:
+npm install
+Start the development server:
+npm start
 
-Currently, two official plugins are available:
+# Deployment
+The project can be deployed using platforms like Vercel or Netlify. Ensure to resolve any path-related issues for smooth deployment.
+link:https://ems-o8cz-shresthapandits-projects.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Contributions
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+# License
+This project is licensed under the MIT License.
