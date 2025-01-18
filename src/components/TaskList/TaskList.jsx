@@ -2,7 +2,7 @@ import React from 'react'
 import AcceptTask from './AcceptTask'
 import NewTask from './NewTask'
 import CompleteTask from './CompleteTask'
-import FailedTask from './failedTask'
+import FailedTask from './FailedTask'
 
 
 const TaskList = ({data}) => {
