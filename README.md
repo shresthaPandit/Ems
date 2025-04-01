@@ -29,6 +29,8 @@ To access the Admin Panel, use the following credentials:
 Email: admin@example.com
 
 Password: 123
+![Admin pannel](src/assets/ss1.png)
+
 
 2. User Login
 To access the User Dashboard and view assigned tasks, use the following dummy user credentials:
