@@ -22,6 +22,21 @@ npm install
 Start the development server:
 npm start
 
+# How to Use
+1. Admin Login
+To access the Admin Panel, use the following credentials:
+
+Email: admin@example.com
+
+Password: 123
+
+2. User Login
+To access the User Dashboard and view assigned tasks, use the following dummy user credentials:
+
+Email: e@e.com
+
+Password: 123
+
 # Deployment
 The project can be deployed using platforms like Vercel or Netlify. Ensure to resolve any path-related issues for smooth deployment.
 link:https://ems-o8cz-shresthapandits-projects.vercel.app/
