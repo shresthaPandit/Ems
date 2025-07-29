@@ -1,4 +1,4 @@
-# Employee Management System (EMS)
+# worksphere
 The Employee Management System (EMS) is a basic project built with React that allows users to manage tasks and employees. It uses local storage for data management and focuses on creating, assigning, and tracking tasks.
 
 # Features
